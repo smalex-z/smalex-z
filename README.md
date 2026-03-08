@@ -19,8 +19,6 @@ I specialize in networking, distributed systems, and infrastructure problems whe
 
 At **Viasat**, I built the primary control and management web tool and REST API for their Next Generation Modem (VEBEM) in three weeks, helped secure a **$250K product order**, and represented the team at **IEEE MILCOM 2025**. Previously did GN&C systems engineering on Trident II at **Charles Stark Draper Laboratory** and neutron scattering simulations at **NIST**. This summer, heading to **Oracle OCI**.
 
-On the org side, I lead a 25-person dev team at **[ACM@UCLA](https://uclaacm.com)** and am the sysadmin of **three cross-country server clusters** hosting production workloads for UCLA's largest CS organization, cutting costs by thousands compared to equivalent cloud setups. I designed and shipped ACM's entire self-hosted infrastructure on a 5-node Proxmox cluster in Boelter Hall, including an Outline wiki, Uptime Kuma monitoring, Immich photo management, and a custom rathole tunnel gateway through an OCI ARM instance. Stack of choice: Proxmox + Docker Compose + Caddy. Strong opinions on self-hosting.
-
 ---
 
 ### 🔓 Open Source & Projects
@@ -31,9 +29,7 @@ I also maintain my own projects: **[gopher](https://github.com/smalex-z/gopher)*
 
 ---
 
-### ⌚ Outside the Terminal
-
-When I'm not pushing commits, I'm usually elbow-deep in a watch movement or covered in sawdust. I repair and mod mechanical watches, primarily NH35 movements, and built my own timegraphing rig using a piezo mic and tg-timer software to diagnose and regulate movements by hand. There's something satisfying about a system with no software, just physics, that either keeps time or doesn't. Woodworking scratches a similar itch: measure twice, cut once, no shortcuts.
+When I'm not pushing commits, I'm usually elbow-deep in a watch movement or covered in sawdust. I repair and mod mechanical watches, primarily NH35 movements. Woodworking scratches a similar itch: measure twice, cut once, no shortcuts.
 
 I'm also a serious Tractor (升级/拖拉机) player, a Chinese card game that rewards pattern recognition and partnership communication in ways most card games don't.
 
