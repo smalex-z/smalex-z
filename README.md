@@ -17,7 +17,7 @@
 
 I specialize in networking, distributed systems, and infrastructure problems where downtime isn't an option. I like building things that have to actually work in production: hybrid cloud/on-prem setups, APIs for airgapped environments, distributed infrastructure across regions.
 
-At **Viasat**, I built the control and management web tool and REST API for their Next Generation Modem in three weeks, helping secure a **$250K product order**, and represented the team at **IEEE MILCOM 2025**. Previously: GN&C systems engineering on Trident II at **Draper Laboratory**, neutron scattering simulations at **NIST**. This summer: **Oracle OCI**.
+At **Viasat**, I built the control and management web tool and REST API for their Next Generation Modem in three weeks, helping secure a **$250K product order**, and represented the team at **IEEE MILCOM 2025**. Previously: GN&C systems engineering on Trident II at **Draper Laboratory**, neutron scattering simulations at **NIST**. As Director of Development at ACM UCLA, I lead a 25-person engineering team establishing production infrastructure for 1,000+ members - open-source, community-owned, and free. This summer: **Oracle OCI**.
 
 ---
 
