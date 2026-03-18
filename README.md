@@ -23,7 +23,7 @@ At **Viasat**, I built the control and management web tool and REST API for thei
 
 ### 🔓 Open Source & Projects
 
-Most of what I know came from leveraging open source software (notably Proxmox and Rathole), and contributing back is the least I can do. I created and maintain **[gopher](https://github.com/smalex-z/gopher)** (a public router tackling real problems in packet routing and NAT traversal), **[altsuite](https://github.com/smalex-z/altsuite)** (a self-hosted SaaS alternatives platform, because subscriptions are a scam), and **[STIMViewer](https://github.com/smalex-z/STIMViewer)** (a GPU-accelerated image processing pipeline for fluorescence neural activity analysis. I've also contribtued to **[SasView](https://github.com/SasView/sasview)**, a scientific neutron scattering analysis tool used by researchers worldwide.
+Most of what I know came from leveraging open source tools (notably Proxmox and Rathole), and giving back is the least I can do. I created and maintain **[gopher](https://github.com/smalex-z/gopher)** (a public router tackling real problems in packet routing and NAT traversal), **[altsuite](https://github.com/smalex-z/altsuite)** (a self-hosted SaaS alternatives platform, because subscriptions are a scam), and **[STIMViewer](https://github.com/smalex-z/STIMViewer)** (a GPU-accelerated image processing pipeline for fluorescence neural activity analysis). I've also contributed to **[SasView](https://github.com/SasView/sasview)**, a scientific neutron scattering analysis tool used by researchers worldwide.
 
 ---
 
